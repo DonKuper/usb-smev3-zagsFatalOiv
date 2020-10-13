@@ -11,7 +11,7 @@
         <sdc.version>1.2</sdc.version>
         <commons-io.version>2.5</commons-io.version>
         <springframework.version>3.2.17.RELEASE</springframework.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <easymock.version>3.4</easymock.version>
         <xmlunit.core.version>2.1.1</xmlunit.core.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
