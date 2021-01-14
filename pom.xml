@@ -15,7 +15,7 @@
         <easymock.version>3.4</easymock.version>
         <xmlunit.core.version>2.1.1</xmlunit.core.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <poi.version>3.9</poi.version>
+        <poi.version>3.17</poi.version>
         <poi.ooxml.version>3.9</poi.ooxml.version>
     </properties>
 
